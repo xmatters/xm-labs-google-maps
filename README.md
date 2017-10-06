@@ -8,10 +8,5 @@ This is an example of a real-time map created using the Google Maps API and Fire
 </kbd>
 
 # Files
-* [Map.zip](map.zip) - Comm Plan to be loaded into xMatters
-
-# Installation
-## xMatters Set up
-1. Import the [map.zip](map.zip) communication plan. Help [here]( http://help.xmatters.com/OnDemand/xmodwelcome/communicationplanbuilder/exportcommplan.htm)
-
+* [Map.zip](map.zip) - Zip file with html page and icons
 
